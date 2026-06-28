@@ -12,7 +12,7 @@ hello_solanaa_2 = "5KPdALcmebHEF2LhHx5vpZfMsM5wFPg3pHWK7rsCr4QW"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
